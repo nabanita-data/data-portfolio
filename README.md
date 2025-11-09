@@ -8,8 +8,8 @@ At the NHS, I automated performance reports and built dashboards that cut manual
 My academic work focused on **explainable AI for house price prediction**, **Black Friday Sales Analysis**, **MRI data analysis for brain tumour classification**.
 
 # Current Focus
-Building an end-to-end **Healthcare Operations Dashboard** using NHS open data
-Expanding into **Predictive Analytics** and **Data Storytelling** for business performance 
+Building an end-to-end **Healthcare Operations Dashboard** using NHS open data.
+Expanding into **Predictive Analytics** and **Data Storytelling** for business performance. 
 Exploring research opportunities in data-driven decision systems, including **healthcare, sustainability, and population analytics**
 
 # Projects
