@@ -10,13 +10,17 @@ My academic work focused on **explainable AI for house price prediction** and **
 # Current Focus
 Building an end-to-end **Healthcare Operations Dashboard** using NHS open data
 Expanding into **Predictive Analytics** and **Data Storytelling** for business performance 
-Learning advanced **Deep Learning** for medical imaging and preparing for PhD program
+Exploring research opportunities in data-driven decision systems, including **healthcare, sustainability, and population analytics**
 
 # Projects
+**HRIS Data Validation** · Python, Pandas, Faker; Designed a validation pipeline for HR employee data, automating checks for missing IDs, duplicates, invalid emails, and salary/date inconsistencies.  
 **Healthcare Operations Dashboard** : SQL, Power BI; Analysed NHS A&E data, automated KPIs (average patient waiting time, admissions) to improve reporting efficiency.
+**Global Company Ownership Research** : Built an open-source dataset using SQL and Python to map company ownership networks, applying entity resolution and validation for transparency and risk reporting.
 **House-Price Prediction (MSc Dissertation)** : Python, XGBoost, SHAP, LIME; Built interpretable ML models explaining feature impact on house-price variance.
 **MRI Brain-Tumour Classification** : Python, scikit-learn; Pre-processed MRI images and trained supervised models for tumour detection.
-**Volunteer Impact Analysis** : Excel, Power BI; Quantified progress for 30+ students, visualising a 25 % rise in course enrolment.
+
+# Leadership Experience
+**Volunteer Tutor** : Mentored 30+ girls from underrepresented backgrounds, increasing advanced course participation by 50%.
 
 # Skills
 Languages: Python, R, SQL  
@@ -27,6 +31,7 @@ Other: Data Cleaning, Dashboard Design, Predictive Modeling, Communication and C
 # Virtual Experiences / Certifications
 Deloitte Australia : Data Analytics Internship (Forage)
 JP Morgan Chase & Co. : Quantitative Research (Forage) 
+Google : Ads Search Certification
 
 # Say hello
 LinkedIn : https://www.linkedin.com/in/duttanabanita/
