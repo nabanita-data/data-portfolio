@@ -5,7 +5,7 @@ MSc Data Science, University of the West of England, Bristol || 2 years NHS UK e
 # What I do
 I use **SQL, Python, Tableau, Power BI** to clean messy operational data and turn it into actionable insights.
 At the NHS, I automated performance reports and built dashboards that cut manual reporting time by approximately 40%.
-My academic work focused on **explainable AI for house price prediction**  **Black Friday Sales Analysis**  **MRI data analysis for brain tumour classification**.
+My academic work focused on **explainable AI for house price prediction**, **Black Friday Sales Analysis**, **MRI data analysis for brain tumour classification**.
 
 # Current Focus
 Building an end-to-end **Healthcare Operations Dashboard** using NHS open data
