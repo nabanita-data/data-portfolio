@@ -13,4 +13,4 @@ This project demonstrates how to build a simple HR data validation pipeline in P
 3. The final output shows a summary of validation checks and creates `reports_summary.json`.
 
 ## Technologies
-Python, Pandas, Faker
+Python, Pandas
